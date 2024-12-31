@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\FUCKING AROUND\c#game\bin\Debug\net9.0\c#game.exe
+C:\Users\Administrator\Downloads\FUCKING AROUND\c#game\bin\Debug\net9.0\c#game.deps.json
+C:\Users\Administrator\Downloads\FUCKING AROUND\c#game\bin\Debug\net9.0\c#game.runtimeconfig.json
+C:\Users\Administrator\Downloads\FUCKING AROUND\c#game\bin\Debug\net9.0\c#game.dll
+C:\Users\Administrator\Downloads\FUCKING AROUND\c#game\bin\Debug\net9.0\c#game.pdb
+C:\Users\Administrator\Downloads\FUCKING AROUND\c#game\obj\Debug\net9.0\c#game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\FUCKING AROUND\c#game\obj\Debug\net9.0\c#game.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\FUCKING AROUND\c#game\obj\Debug\net9.0\c#game.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\FUCKING AROUND\c#game\obj\Debug\net9.0\c#game.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\FUCKING AROUND\c#game\obj\Debug\net9.0\c#game.dll
+C:\Users\Administrator\Downloads\FUCKING AROUND\c#game\obj\Debug\net9.0\refint\c#game.dll
+C:\Users\Administrator\Downloads\FUCKING AROUND\c#game\obj\Debug\net9.0\c#game.pdb
+C:\Users\Administrator\Downloads\FUCKING AROUND\c#game\obj\Debug\net9.0\c#game.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\FUCKING AROUND\c#game\obj\Debug\net9.0\ref\c#game.dll
