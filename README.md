@@ -1,2 +1,2 @@
-# CLI-Game-c-
+# CLI-Game-c#
 CLI game 
